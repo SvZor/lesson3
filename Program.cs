@@ -20,16 +20,16 @@
 // }
 // для запуска одного цикла для разных значений используются функции.
 
-// пишем функция для сокращения кода  
-int Square (int value)
-{
-    int result = value * value;
-    return result;
-}
+// // пишем функция для сокращения кода  
+// int Square (int value)
+// {
+//     int result = value * value;
+//     return result;
+// }
 
-// если функция ничего не возврщает, то используется тип данных void - пустой
-void ShowSquare (int value)
-{
-    int result = value * value;
-    Console.Write(result);
-}
+// // если функция ничего не возврщает, то используется тип данных void - пустой
+// void ShowSquare (int value)
+// {
+//     int result = value * value;
+//     Console.Write(result);
+// }
