@@ -1,0 +1,14 @@
+D:\GB\Основной курс\знакомство с языками программирования\Lesson3\bin\Debug\net7.0\Lesson3.exe
+D:\GB\Основной курс\знакомство с языками программирования\Lesson3\bin\Debug\net7.0\Lesson3.deps.json
+D:\GB\Основной курс\знакомство с языками программирования\Lesson3\bin\Debug\net7.0\Lesson3.runtimeconfig.json
+D:\GB\Основной курс\знакомство с языками программирования\Lesson3\bin\Debug\net7.0\Lesson3.dll
+D:\GB\Основной курс\знакомство с языками программирования\Lesson3\bin\Debug\net7.0\Lesson3.pdb
+D:\GB\Основной курс\знакомство с языками программирования\Lesson3\obj\Debug\net7.0\Lesson3.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Основной курс\знакомство с языками программирования\Lesson3\obj\Debug\net7.0\Lesson3.AssemblyInfoInputs.cache
+D:\GB\Основной курс\знакомство с языками программирования\Lesson3\obj\Debug\net7.0\Lesson3.AssemblyInfo.cs
+D:\GB\Основной курс\знакомство с языками программирования\Lesson3\obj\Debug\net7.0\Lesson3.csproj.CoreCompileInputs.cache
+D:\GB\Основной курс\знакомство с языками программирования\Lesson3\obj\Debug\net7.0\Lesson3.dll
+D:\GB\Основной курс\знакомство с языками программирования\Lesson3\obj\Debug\net7.0\refint\Lesson3.dll
+D:\GB\Основной курс\знакомство с языками программирования\Lesson3\obj\Debug\net7.0\Lesson3.pdb
+D:\GB\Основной курс\знакомство с языками программирования\Lesson3\obj\Debug\net7.0\Lesson3.genruntimeconfig.cache
+D:\GB\Основной курс\знакомство с языками программирования\Lesson3\obj\Debug\net7.0\ref\Lesson3.dll
